@@ -2,3 +2,8 @@ body {
   background: white;
   color: #48464d;
 }
+header {
+  diasplay: flex;
+  background: black;
+  color: white;
+}
