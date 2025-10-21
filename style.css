@@ -1,10 +1,16 @@
 body {
-  background: white;
-  color: #48464d;
+  background: black;
+  color: white;
 }
 header {
   diasplay: flex;
-  background: black;
-  color: white;
+  background: white;
+  color: 48464d;
   margin: 0px;
+}
+main {
+  diasplay: flex;
+  background: white;
+  color: 48464d;
+  margin: 50px;
 }
