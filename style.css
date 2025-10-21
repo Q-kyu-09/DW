@@ -1,10 +1,10 @@
 body {
   background: white;
   color: #48464d;
-  mergin: 0px;
 }
 header {
   diasplay: flex;
   background: black;
   color: white;
+  margin: 0px;
 }
