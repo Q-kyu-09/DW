@@ -1,6 +1,7 @@
 body {
   background: white;
   color: #48464d;
+  mergin: 0px;
 }
 header {
   diasplay: flex;
