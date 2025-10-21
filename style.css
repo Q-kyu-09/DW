@@ -4,8 +4,8 @@ body {
 }
 header {
   diasplay: flex;
-  background: white;
-  color: 48464d;
+  background: black;
+  color: white;
   margin: 0px;
 }
 main {
