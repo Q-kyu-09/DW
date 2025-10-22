@@ -1,12 +1,12 @@
 body {
   background: #808080;
   color: white;
+  margin: 0px;
 }
 header {
   diasplay: flex;
   background: black;
   color: white;
-  margin: 0px;
 }
 main {
   diasplay: flex;
