@@ -24,3 +24,8 @@ footer {
   background: black;
   color: white;
 }
+#menu {
+  display: flex;
+  background: black;
+  color: white;
+}
