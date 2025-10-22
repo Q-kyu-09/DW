@@ -28,4 +28,5 @@ footer {
   display: flex;
   background: black;
   color: white;
+  text-align: center;
 }
