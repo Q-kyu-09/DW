@@ -23,6 +23,7 @@ div {
 footer {
   background: black;
   color: white;
+  display: flex;
 }
 #menu {
   display: flex;
